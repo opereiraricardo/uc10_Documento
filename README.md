@@ -49,7 +49,11 @@ Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
 Sobrescrito -> Aqui vai o texto em <sup> sobrescrito </sup>
 
 
+Citações em bloco:
 
+Use > texto para criar uma citação em bloco.
+
+> Isso é uma citação em bloco.
 
 
 
