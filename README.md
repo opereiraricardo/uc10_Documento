@@ -55,7 +55,11 @@ Use > texto para criar uma citação em bloco.
 
 > Isso é uma citação em bloco.
 
+Linhas horizontais:
 
+Use três ou mais hífens (---) ou asteriscos (***) para criar uma linha horizontal.
+
+---
 
 
 
