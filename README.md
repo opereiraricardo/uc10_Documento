@@ -36,6 +36,31 @@ Imagem
 ![Imagem](https://github.com/opereiraricardo/uc10_Documento/blob/main/GitHub.jpg)
 
 
+Enfase:
+
+Itálico ->   *texto em itálico* ou _texto em itálico_.
+
+Negrito -> **texto em negrito** ou __texto em itálico__ 
+
+Tachado -> ~~Texto em Taxado~~
+
+Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
+
+Sobrescrito -> Aqui vai o texto em <sup> sobrescrito </sup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
