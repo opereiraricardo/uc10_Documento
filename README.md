@@ -102,7 +102,15 @@ Referência
 [Página 2 da documentação](pagina.md)
 
 
+Notas de Rodapé
 
+Aqui é um exemplo de marcação em rodapé[^1].
+
+A aula é com o Ricardo[^2].
+
+[^1]: Rodapé: conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de Git.
+  Aqui uma outra linha.
 
 
 
