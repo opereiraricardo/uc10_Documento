@@ -39,9 +39,10 @@ Imagem
 Enfase:
 
 Itálico ->   *texto em itálico* ou _texto em itálico_.
-
+_Italico_
 Negrito -> **texto em negrito** ou __texto em itálico__ 
 
+**Negrito**
 Tachado -> ~~Texto em Taxado~~
 
 Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
