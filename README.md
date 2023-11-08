@@ -62,6 +62,49 @@ Use três ou mais hífens (---) ou asteriscos (***) para criar uma linha horizon
 ---
 
 
+Código:
+
+Use crases (`) para inserir código inline.
+Use três crases (```) para criar blocos de código.
+
+Use crases (\`) para inserir código `inline`.
+
+`print("Mostra uma mensagem") `
+
+```
+ idade = 18
+ print(f"A idade é {idade}")
+ 
+```
+
+
+Tabelas:
+
+Crie tabelas com barras verticais (|) para separar colunas.
+Use hífens e colons para definir a formatação da tabela.
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|------------ |------------ |
+| Dado 1      | Dado 2      |
+| Dado 3      | Dado 4      |
+
+Listas de tarefas:
+    
+Use - [ ] para criar uma lista de tarefas não marcadas.
+Use - [x] para criar uma lista de tarefas marcadas.
+
+Exemplo
+- [x] Tarefa concluída
+- [ ] Tarefa pendente
+
+
+
+
+
+
+
+
+
 
 
 
