@@ -113,6 +113,21 @@ A aula é com o Ricardo[^2].
   Aqui uma outra linha.
 
 
+Alertas
+> **Note**
+> Esta é uma Nota
+
+> [!NOTE]
+> Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+> [!IMPORTANT]
+> Informações cruciais necessárias para o sucesso dos usuários.
+
+> [!WARNING]
+> Conteúdo crítico que exige atenção imediata do usuário devido a riscos potenciais.
+
+
+
 
 
 
